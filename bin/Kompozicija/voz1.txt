@@ -1,0 +1,1 @@
+2;2;Teretna;250;TL250;Elektricna;Teretna;200;UL200;Elektricna;Teretni;100;TV100;330;Teretni;50;TV50;520;300;B-A
